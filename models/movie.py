@@ -11,3 +11,4 @@ class Movie(Base):
     year = Column(Integer)
     rating = Column(Float)
     category = Column(String)
+
